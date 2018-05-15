@@ -1,3 +1,3 @@
-# github commit 3¦¸ 
-## ·s¼W.gitignore
-µ{¦¡»y¨¥§@·~2 
+# github commit 3æ¬¡
+## æ–°å¢ž.gitignore
+ä½œæ¥­2 
